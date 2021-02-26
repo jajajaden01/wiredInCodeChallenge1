@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    margin: auto;
+
+    .search-input{
+        width: 30%;
+        margin: 1em 0;
+    }
+
+    .messages{
+        p{
+            .big{
+                font-size: 30px;
+                font-weight: bold;
+                padding-right: 1em;
+            }
+        }
+    }
+}
